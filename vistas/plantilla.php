@@ -9,6 +9,7 @@
 </head>
 <body>
     <header>
+      //comentario del commit de develop
         <h1>LOGOTIPO</h1>
     </header>
     <?php
